@@ -2,28 +2,6 @@
 
 import unicodedata
 
-print "Python indices practice, weird circular\n"
-
-print """
- +---+---+---+---+---+
- | H | e | l | p | A |
- +---+---+---+---+---+
- 0   1   2   3   4   5
--5  -4  -3  -2  -1
-"""
-
-word = "awordwithafewletters"
-
-print word[1]
-
-print word[0]
-
-print "Here are the last three letters\
- of the word " + word[-3:]
-
-
-print "Here are the first three letters\
- of the word " + word[:3]
 
 
 print """
